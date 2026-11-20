@@ -1,0 +1,5 @@
+ticker,company_name,announcement_date,quarter,expected_revenue_cr,actual_revenue_cr,expected_net_profit_cr,actual_net_profit_cr
+INFY.NS,Infosys,2023-10-12,Q2FY24,38000,38800,7500,7650
+INFY.NS,Infosys,2024-01-11,Q3FY24,39500,39900,7800,7700
+WIPRO.NS,Wipro,2023-10-18,Q2FY24,21500,21300,3100,2950
+WIPRO.NS,Wipro,2024-01-11,Q3FY24,22000,22100,3200,3350
